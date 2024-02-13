@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varad Patil</h1>
 <h3 align="center">The Tinkerer</h3>
-<img src="https://openqcm.com/wp-content/uploads/2021/02/Electronics_animated-2.gif" alt="Animated Electronics">
+(img align="right" alt="Coding" width="400" src="https://openqcm.com/wp-content/uploads/2021/02/Electronics_animated-2.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varadp963&label=Profile%20views&color=0e75b6&style=flat" alt="varadp963" /> </p>
 
