@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varad Patil</h1>
 <h3 align="center">The Tinkerer</h3>
-<img align="right" alt="Coding" width="400" src="https://openqcm.com/wp-content/uploads/2021/02/Electronics_animated-2.gif">
+<img align="right" alt="Coding" width="400" src="[https://openqcm.com/wp-content/uploads/2021/02/Electronics_animated-2.gif](https://static.wixstatic.com/media/bd0a9d_7ea3fad90c0c4cfb92c963f44f28bc1a~mv2.gif)">
 (https://i.makeagif.com/media/10-27-2021/TS06B5.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varadp963&label=Profile%20views&color=0e75b6&style=flat" alt="varadp963" /> </p>
