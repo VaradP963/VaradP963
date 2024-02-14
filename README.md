@@ -1,3 +1,4 @@
+![Navy And White Geometric Technology  LinkedIn Banner](https://github.com/VaradP963/VaradP963/assets/125079563/4a2e56d1-8f19-4469-baa0-6f1d6380c0cb)
 <h1 align="center">Hi 👋, I'm Varad Patil</h1>
 <h3 align="center">The Tinkerer</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bd0a9d_7ea3fad90c0c4cfb92c963f44f28bc1a~mv2.gif">
